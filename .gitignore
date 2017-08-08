@@ -5,3 +5,7 @@
 /bundledOutputs/
 npm-debug.log
 .DS_Store
+/images/*.*
+image.db
+image
+/src/simple/readme.txt

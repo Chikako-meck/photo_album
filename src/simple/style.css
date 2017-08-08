@@ -1,0 +1,75 @@
+body{
+  padding: 30px;
+  text-align: center;
+}
+
+#input{
+  border: double;
+}
+
+table {
+    margin: auto;
+    width: 40%;
+}
+
+table td{
+  text-align: center;
+  margin: auto;
+}
+
+input[type="date"], input[type="url"], input[type="text"], select {
+  width:300px;
+}
+
+input[type="radio"]{
+  text-align: left;
+}
+
+#store{
+    font-size: 1em;
+    width: 100px;
+    background-color: #248;
+    color: WHITE;
+}
+
+#store:hover {
+  background-color: #24d;
+  color: white;
+}
+
+#back{
+    font-size: 1em;
+    width: 100px;
+    background-color: #248;
+    color: WHITE;
+}
+
+#back:hover {
+  background-color: #24d;
+  color: white;
+}
+#search{
+  font-size: 1em;
+  width: 100px;
+  background-color: #248;
+  color: WHITE;
+}
+
+#search:hover {
+  background-color: #24d;
+  color: white;
+}
+
+#history {
+  border-top: dashed 1px;
+  border-left: dashed 1px;
+  border-right: dashed 1px;
+}
+
+#history td{
+  margin:5px;
+  width: 100px;
+  vertical-align: middle;
+  text-align: center;
+  border-bottom: dashed 1px;
+}
